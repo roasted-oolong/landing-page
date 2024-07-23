@@ -9,3 +9,16 @@
     margin: 0;
     padding: 0;
 }
+
+/* Global Styles */
+* {
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.section {
+    padding: 60px 100px;
+}
