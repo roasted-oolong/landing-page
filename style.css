@@ -23,8 +23,10 @@ ul {
     list-style-type: none;
 }
 
-.section {
-    padding: 100px 60px;
+
+button {
+    display: flex;
+    justify-content: center;
 }
 
 /* Styling */
@@ -47,4 +49,11 @@ body {
 .nav-items {
     display: flex;
     gap: 32px;
+}
+
+.content-hero {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: flex-start;
 }
