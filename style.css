@@ -23,10 +23,8 @@ ul {
     list-style-type: none;
 }
 
-
 button {
-    display: flex;
-    justify-content: center;
+    padding: 8px 16px;
 }
 
 /* Styling */
