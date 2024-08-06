@@ -27,6 +27,10 @@ button {
     padding: 8px 16px;
 }
 
+img {
+    height: auto;
+}
+
 /* Styling */
 body {
     display: flex;
@@ -34,18 +38,23 @@ body {
 }
 
 .logo {
-    height: auto;
+    height: 60px;
 }
 
 .nav,
 .footer {
     background-color: beige;
-    padding: 24px 16px;
+    padding: 24px 36px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-container {
     display: flex;
 }
 
 .nav {
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .nav-items {
