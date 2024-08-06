@@ -52,6 +52,7 @@ body {
 .content-hero {
     display: flex;
     flex-direction: column;
+    padding: 60px;
     gap: 8px;
     justify-content: flex-start;
 }
