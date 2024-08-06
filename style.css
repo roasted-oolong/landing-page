@@ -33,6 +33,10 @@ body {
     flex-direction: column;
 }
 
+.logo {
+    height: auto;
+}
+
 .nav,
 .footer {
     background-color: beige;
